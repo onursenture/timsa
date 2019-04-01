@@ -16,12 +16,12 @@ a:active {
 
 html .text-color-primary,
 html .text-primary {
-	color: #0088CC !important;
+	color: #f7941e !important;
 }
 
 html .text-color-hover-primary:hover,
 html .text-hover-primary:hover {
-	color: #0088CC !important;
+	color: #f7941e !important;
 }
 
 html .text-color-secondary,
@@ -84,12 +84,12 @@ html .text-hover-light:hover {
 
 html .bg-color-primary,
 html .bg-primary {
-	background-color: #0088CC !important;
+	background-color: #f7941e !important;
 }
 
 html .bg-color-hover-primary:hover,
 html .bg-hover-primary:hover {
-	background-color: #0088CC !important;
+	background-color: #f7941e !important;
 }
 
 html .bg-color-secondary,
@@ -633,8 +633,8 @@ html .overlay-color-light:not(.no-skin):before {
 }
 
 html .btn-primary {
-	background-color: #0088CC;
-	border-color: #0088CC #0088CC #006699;
+	background-color: #0094fc;
+	border-color: #0094fc #0094fc #006699;
 	color: #FFF;
 }
 
@@ -3534,7 +3534,7 @@ html[dir="rtl"] #header .tip-light:before {
 	}
 
 	#header .header-nav.header-nav-links nav > ul:not(:hover) > li > a.active {
-		color: #0088CC;
+		color: #0094fc;
 	}
 
 	#header .header-nav.header-nav-links.header-nav-links-vertical-slide nav ul li.dropdown .dropdown-menu::-webkit-scrollbar-thumb {
