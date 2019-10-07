@@ -28,7 +28,8 @@ def contact():
           },
           "To": [
             {
-              "Email": "isilvaizoglu@yahoo.com",
+              "Email": "can@orkestra.co",
+              "Name": "Can"
             }
           ],
           "Subject": form["subject"],
